@@ -1,0 +1,12 @@
+O que é um arquivo?
+R: No contexto da programação, arquivo é uma unidade básica de um conjunto de dados armazenados e que estão de alguma forma relacionados, mantida em um dispositivo de armazenamento, seguindo um formato (texto, imagem e outros) digital, qualquer tipo de informação. Os arquivos são organizados em pastas (diretórios) que se encontram em uma hierarquia de arquivos no sistema de arquivos do computador. 
+
+O que é um arquivo de texto?
+R: É um tipo de arquivo que contém texto estruturado em linhas e armazenam informações, dados e compartilhamentos de documentos em formato de um texto simples, sendo legível para nós, e que são processadas por computadores de uma forma direta, sem a necessidade de aplicativos específicos. Esses podem estar no formato “.txt”, por exemplo, sendo uma extensão de arquivo para os que não possuem formatação. Eles são lidos e interpretados de forma fácil por qualquer um, sendo considerados universais.
+
+O que é uma variável?
+R: É um espaço de armazenamento que pode conter dados, podendo ser alterado durante a execução de um programa, cada uma tem seu nome próprio e único, sendo utilizados para se referir durante a execução de um programa. É uma forma de armazenar valores manipulados pelos programas enquanto operam. Alguns exemplos, podemos citar a “double”, que permite armazenamento de números reais, “char”, para armazenar um único caractere, entre outras.
+
+O que é um servidor?
+R: São computadores/sistemas computacionais que fornecem serviços, recursos ou dados para outros computadores, cliente, por meio de uma rede. Cada servidor é criado e projetado para fornecer um tipo específicos. Os servidores atendem dispositivos através de redes, executando aplicações - prestando serviços, armazenando dados, etc. Além disso, eles são programados para estarem disponíveis sempre para os clientes que o utilizam.
+
